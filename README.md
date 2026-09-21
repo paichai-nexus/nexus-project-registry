@@ -1,52 +1,88 @@
-# nexus-project-registry
+# PAICHAI NEXUS Project Registry
 
-PAICHAI NEXUS Student Project
+Official project registry of **PAICHAI NEXUS** at Paichai University.
 
-## Overview
+> Interdisciplinary student projects connecting technology, research, design and real-world problems.
 
-This repository is an official project repository of **PAICHAI NEXUS**, an interdisciplinary student project organization at Paichai University.
+---
 
-## Project Status
+## Active Projects
 
-🟡 Planning
+| Project | Repository | Status |
+|---|---|---|
+| Smart Seedling AI | [smart-seedling-ai](https://github.com/paichai-nexus/smart-seedling-ai) | 🟢 Active |
+| Paejae Pick 2.0 | [paejae-pick-2-app](https://github.com/paichai-nexus/paejae-pick-2-app) | 🟢 Active |
+| NEXUS Event Platform | [nexus-event-platform](https://github.com/paichai-nexus/nexus-event-platform) | 🟢 Active / Official Deployment |
 
-## Objectives
+## Prototype
 
-- Define the problem and project scope
-- Build an interdisciplinary student team
-- Produce measurable project outcomes
-- Document the development and research process
+| Project | Repository | Status |
+|---|---|---|
+| International Logistics Learning Support | [logistics-learning-support](https://github.com/paichai-nexus/logistics-learning-support) | 🟠 Prototype |
 
-## Team
+## Planning
 
-### Project Lead
+| Project | Repository | Status |
+|---|---|---|
+| Healthcare HIS | [healthcare-his](https://github.com/paichai-nexus/healthcare-his) | 🟡 Planning |
+| Tunnel Stability Research | [tunnel-stability-research](https://github.com/paichai-nexus/tunnel-stability-research) | 🟡 Planning |
+| Zero-Waste FoodTech | [zero-waste-foodtech](https://github.com/paichai-nexus/zero-waste-foodtech) | 🟡 Planning |
+| Elite Youth Sports | [elite-youth-sports](https://github.com/paichai-nexus/elite-youth-sports) | 🟡 Planning |
 
-TBD
+---
 
-### Members
+# Project Lifecycle
 
-TBD
+Every official NEXUS project follows:
 
-### Advisors
+```text
+IDEA
+ ↓
+PLANNING
+ ↓
+PROTOTYPE
+ ↓
+ACTIVE
+ ↓
+VALIDATION
+ ↓
+COMPLETED
+ ↓
+FOLLOW-UP / RESEARCH / DEPLOYMENT
+Official Project Requirements
 
-TBD
+A project is considered an official PAICHAI NEXUS project when it has:
 
-## Milestones
+GitHub Repository
+README
+Project Lead
+Defined problem
+Project members
+Current status
+Next milestone
+Documentation
+Expected output
 
-- [ ] Problem definition
-- [ ] Requirements
-- [ ] Research / design
-- [ ] Prototype
-- [ ] Validation
-- [ ] Final result
-- [ ] Project report
+A meeting idea alone is not considered an official project.
 
-## Documentation
+Project Outputs
 
-See [docs](./docs).
+Projects may produce:
 
-## Organization
+Software
+Hardware
+Research
+Papers
+Prototypes
+Designs
+Data
+Competitions
+University services
+Community projects
+Startup concepts
+PAICHAI NEXUS
 
-**PAICHAI NEXUS**
+Student-led interdisciplinary project organization
+Paichai University
 
 https://github.com/paichai-nexus
